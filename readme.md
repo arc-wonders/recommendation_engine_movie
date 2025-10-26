@@ -41,7 +41,8 @@ You’ll learn how to:
 
 ---
 
-git clone [https://github.com/arc-wonders/recommendation_engine_movie]
+git clone https://github.com/arc-wonders/recommendation_engine_movie
+
 cd recommendation_engine_movie
 
 
