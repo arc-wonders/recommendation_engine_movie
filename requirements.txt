@@ -1,0 +1,16 @@
+# Core Data Libraries
+pandas
+numpy
+
+# Machine Learning & Feature Extraction
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+
+# Model Persistence (used in Cell 11)
+joblib
+
+# For saving/loading parquet files
+pyarrow
